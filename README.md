@@ -15,7 +15,9 @@
     <span style="vertical-align: middle;"><font size="+2">This MySQL tutorial covers the basics of setting up MySQL, performing CRUD (Create, Read, Update, Delete) operations, and some advanced concepts.
 </font></span>
 </div>
-﻿
+﻿<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+MySQL+page;Not+completed+yet!;Will+add+more+parts+in+the+future!;Will+complete+soon!&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000">
+</p>
 
 ## 📚 Table of Contents
 
