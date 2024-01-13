@@ -24,7 +24,7 @@
 3. [Advanced Concepts](#advanced-concepts)
 
 ## Introduction
-MySQL is a popular open-source relational database management system (RDBMS) that is widely used for web applications. It provides a robust and scalable platform for managing and manipulating data.
+MySQL is a popular open-source relational database management system (RDBMS) that is widely used for web applications. It provides a robust and scalable platform for managing and manipulating data. With PHP, you can connect to and manipulate databases.MySQL is the most popular database system used with PHP.
 
 ## Basic Commands
 Connecting to MySQL
