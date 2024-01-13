@@ -18,23 +18,12 @@
 ﻿
 
 
-Table of Contents
-Introduction]
-Installation]
-Basic Commands]
-Connecting to MySQL]
-Creating a Database]
-Creating Tables]
-Inserting Data]
-Querying Data]
-Updating Data]
-Deleting Data]
-Advanced Concepts]
-Indexing
-Joins
-Transactions
-Conclusion
-Additional Resources
+## 📚 Table of Contents
+[Introduction](#introduction)
+[Installation](#installation)
+[Basic Commands](#basic-commands)
+[Advanced Concepts](#advanced-concepts)
+[Additional Resources](#additional-resources)
 
 ## Introduction
 MySQL is a popular open-source relational database management system (RDBMS) that is widely used for web applications. It provides a robust and scalable platform for managing and manipulating data.
