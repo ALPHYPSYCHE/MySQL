@@ -17,13 +17,11 @@
 </div>
 ﻿
 
-
 ## 📚 Table of Contents
 
 1. [Introduction](#introduction)
 2. [Basic Commands](#basic-commands)
 3. [Advanced Concepts](#advanced-concepts)
-4. [Additional Resources](#additional-resources)
 
 ## Introduction
 MySQL is a popular open-source relational database management system (RDBMS) that is widely used for web applications. It provides a robust and scalable platform for managing and manipulating data.
@@ -84,8 +82,3 @@ START TRANSACTION;
 COMMIT;
 ```
 
-Additional Resources
-Provide links to additional resources for further learning.
-
-MySQL Documentation
-W3Schools MySQL Tutorial
