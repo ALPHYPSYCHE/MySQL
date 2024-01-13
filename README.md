@@ -19,11 +19,12 @@
 
 
 ## 📚 Table of Contents
-[Introduction](#introduction)
-[Installation](#installation)
-[Basic Commands](#basic-commands)
-[Advanced Concepts](#advanced-concepts)
-[Additional Resources](#additional-resources)
+
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Basic Commands](#basic-commands)
+4. [Advanced Concepts](#advanced-concepts)
+5. [Additional Resources](#additional-resources)
 
 ## Introduction
 MySQL is a popular open-source relational database management system (RDBMS) that is widely used for web applications. It provides a robust and scalable platform for managing and manipulating data.
