@@ -21,20 +21,12 @@
 ## 📚 Table of Contents
 
 1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Basic Commands](#basic-commands)
-4. [Advanced Concepts](#advanced-concepts)
-5. [Additional Resources](#additional-resources)
+2. [Basic Commands](#basic-commands)
+3. [Advanced Concepts](#advanced-concepts)
+4. [Additional Resources](#additional-resources)
 
 ## Introduction
 MySQL is a popular open-source relational database management system (RDBMS) that is widely used for web applications. It provides a robust and scalable platform for managing and manipulating data.
-
-## Installation
-Include instructions on how to install MySQL on different operating systems. For example:
-
-Installing MySQL on Windows
-Installing MySQL on macOS
-Installing MySQL on Linux
 
 ## Basic Commands
 Connecting to MySQL
